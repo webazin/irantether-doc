@@ -199,6 +199,7 @@ supervisorctl update
 
 * برای اطمینان از مراحل بالا آدرس سایت خود به همراه port 8443 را وارد کنید باید نوشته ok ظاهر شود
 
+https://irantether.webazin.net:8443
 
 #### تنظیمات سایت
  
@@ -232,8 +233,6 @@ supervisorctl update
 
 <br>
 <hr>
-
-https://irantether.webazin.net:8443
 
 <br>
 
