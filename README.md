@@ -6,7 +6,7 @@
 ### پیش نیاز های نصب
 
 ` 
-php ^8.1
+php ^8.1 \n
 node js
 npm
 php-gmp extention
