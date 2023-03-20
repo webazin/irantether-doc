@@ -205,7 +205,7 @@ https://irantether.webazin.net:8443
 
 
 ```
-composer install
+composer install --ignore-platform-reqs
 
 npm install
 
